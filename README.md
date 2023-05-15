@@ -34,9 +34,9 @@ Press Create a TypeScript project
 Press Enter
 Press Y 3 times
 ```
-```
+
 ![image](https://github.com/KyryloKilin/zkSync-Era-Deploy-/assets/83702309/f6256bd8-b70a-497f-9185-0c80f1129bf4)
-```
+
 ```
 mkdir greeter
 cd greeter
