@@ -4,11 +4,12 @@ zkSync Era | Deploy
 Requirements
 The following are minimum requirements to Deploy:
 
-CPU: 2-cores
-RAM: 4GB of memory
-Storage: 30GB of disk space
-Network: 10 Mbps of upload and download bandwidth
-Software: Linux
+
+"CPU: 2-cores"
+"RAM: 4GB of memory"
+"Storage: 30GB of disk space"
+"Network: 10 Mbps of upload and download bandwidth"
+"Software: Linux"
 
 Server Preparation
 sudo apt-get update && sudo apt-get install -y
