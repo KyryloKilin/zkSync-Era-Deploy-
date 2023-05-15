@@ -1,7 +1,7 @@
 # zkSync-Era-Deploy-
-##zkSync Era | Deploy 
+## zkSync Era | Deploy 
 
-###Requirements
+### Requirements
 The following are minimum requirements to Deploy:
 
 ```
@@ -12,7 +12,7 @@ Network: 10 Mbps of upload and download bandwidth
 Software: Linux
 ```
 
-###Server Preparation
+### Server Preparation
 ```
 sudo apt-get update && sudo apt-get install -y
 apt install curl -y
@@ -22,7 +22,7 @@ sudo apt-get install -y nodejs
 sudo apt-get install vim
 ```
 
-###Preparing for Deploy
+### Preparing for Deploy
 ```
 npm init -y
 npm install --save-dev hardhat
@@ -64,7 +64,7 @@ npx hardhat compile
 vim deploy/deploy.ts
 ```
 
-###Change <WALLET-PRIVATE-KEY> in the code to your own private key
+### Change <WALLET-PRIVATE-KEY> in the code to your own private key
   
 ```  
 Paste the modified code into the console
